@@ -33,6 +33,7 @@ if __name__ == '__main__':
     print(een_tot_tien)
 
     # file analysis
+    time.sleep(350)
 
     i = 0
 
